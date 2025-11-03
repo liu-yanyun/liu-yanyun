@@ -6,7 +6,7 @@
 🎓 MSc in Bioinformatics & Computational Biology  
 🧬 Passionate about genomics, microbiome research, and machine learning in biology  
 💻 Skilled in Python, R, SQL, and open-source bioinformatics tools  
-🧪 Currently working on my master's thesis:  
+🧪 Recently finished my master's thesis:  
 **Characterization of biosynthetic gene clusters (BGCs) in *Helicobacter pylori***  
 Supervised by Prof. Kaisa Thorell, University of Gothenburg
 
